@@ -1,0 +1,48 @@
+<RCC>
+    <qresource prefix="/hotelmenu">
+        <file>res/pic/1.png</file>
+        <file>res/pic/2.png</file>
+        <file>res/pic/3.png</file>
+        <file>res/pic/4.png</file>
+        <file>res/pic/background-1.png</file>
+        <file>res/pic/background-2.png</file>
+        <file>res/pic/background-3.png</file>
+        <file>res/pic/background-4.png</file>
+        <file>res/pic/lilin.jpg</file>
+        <file>res/pic/lilin.png</file>
+        <file>res/pic/linlin.png</file>
+        <file>res/pic/m_111.png</file>
+        <file>res/pic/pwd.png</file>
+        <file>res/pic/qq.png</file>
+        <file>res/pic/qq-hover.png</file>
+        <file>res/pic/qq-old.png</file>
+        <file>res/pic/shoukuanma.png</file>
+        <file>res/pic/signup_b.png</file>
+        <file>res/pic/signup_f.png</file>
+        <file>res/pic/user_name.png</file>
+        <file>res/pic/wb.png</file>
+        <file>res/pic/wb-hover.png</file>
+        <file>res/pic/wx.png</file>
+        <file>res/pic/wx-hover.png</file>
+        <file>res/pic/微博111.png</file>
+        <file>res/pic/微信111.png</file>
+        <file>res/pic/R-C.jfif</file>
+        <file>res/pic/R-C2.jfif</file>
+        <file>res/pic/R-C3.jfif</file>
+        <file>res/pic/R-C4.jfif</file>
+        <file>res/pic/R-C5.jfif</file>
+        <file>res/pic/R-C6.jfif</file>
+        <file>res/pic/R-C7.jfif</file>
+        <file>res/pic/R-C8.jfif</file>
+        <file>res/pic/R-C9.jfif</file>
+        <file>res/pic/R-C10.jfif</file>
+        <file>res/pic/R-C11.jfif</file>
+        <file>res/pic/R-C12.jfif</file>
+        <file>res/pic/R-C13.jfif</file>
+        <file>res/pic/jiudian.jpg</file>
+        <file>res/pic/jiudian.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>res/qss/style-1.qss</file>
+    </qresource>
+</RCC>
